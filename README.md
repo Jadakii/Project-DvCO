@@ -11,10 +11,6 @@ Register Page:  <br/>
 <img width="940" height="508" alt="image" src="https://github.com/user-attachments/assets/74ae605c-4bc9-420c-a44c-33c1134264e6" />
 <br />
 <br />
-Music Detail Page: <br/>
-<img width="923" height="419" alt="image" src="https://github.com/user-attachments/assets/61b31814-f234-4067-b8d3-89440993f690" />
-<br />
-<br />
 Home Page (User):<br/>
 <img width="880" height="483" alt="image" src="https://github.com/user-attachments/assets/feef1918-35ca-4d8b-a710-f973241bef4e" /> <br />
 <img width="405" height="311" alt="image" src="https://github.com/user-attachments/assets/c2b19cd1-c39e-48d7-a9db-53be685857ff" /> <br />
